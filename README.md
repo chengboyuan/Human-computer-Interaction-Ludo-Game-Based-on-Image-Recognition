@@ -2,7 +2,9 @@
 This project is for CS159 2019Spring Course "Python Programming" taught by Professor Bao Yang.
 ## Basic Information
 Project title: Human-computer interaction Ludo game based on image recognition
+
 Team name: Hello full mark
+
 Team members: Cheng Boyuan, Ni Junyan, Bentian Linai, Guo Yi
 
 ## Problem Introduction
